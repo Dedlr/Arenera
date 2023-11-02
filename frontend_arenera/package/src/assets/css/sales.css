@@ -1,0 +1,24 @@
+/* Punto verde */
+.status-dot.green {
+    margin-left: 1cm;
+    background-color: green;
+    width: 20px; /* Ajusta el tamaño según tus preferencias */
+    height: 20px;
+    border-radius: 50%; /* Para que el punto sea redondo */
+    display: inline-block;
+  }
+  
+  /* Punto rojo */
+  .status-dot.red {
+    margin-left: 1cm;
+    background-color: red;
+    width: 20px; /* Ajusta el tamaño según tus preferencias */
+    height: 20px;
+    border-radius: 50%; /* Para que el punto sea redondo */
+    display: inline-block;
+  }
+
+.item-total{
+margin-left: 25cm;
+
+}
